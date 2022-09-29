@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WilliamHambrick
+- 👋 Hi, I’m William
 - 👀 I’m interested in projects involving Discord Bots, APIs, and other connectivity projects.
 - 🌱 I’m currently learning Python, ASP.NEt, and UWP development.
 
